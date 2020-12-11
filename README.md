@@ -12,7 +12,7 @@ Data 1202 Assignment 5
 
 3. Then I have displayed the first 5 rows to check if I have the right type of data in.
 
-df.head()
+    df.head()
 
 
 4. By using th iloc command I have selected the first 1000 entries. 
